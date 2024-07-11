@@ -1,2 +1,4 @@
 # TicTacToe
-TicTacToe game 
+
+
+TicTacToe game in React and Typescript
